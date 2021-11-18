@@ -3,12 +3,13 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Srivarsha-red)](https://www.youtube.com/developerfunnel)
 [![Linkedin Badge](https://img.shields.io/badge/-Srivarsha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Srivarsha-Chinthapatla)](https://www.linkedin.com/in/Srivarsha-Chinthapatla/)
+[![Website Badge](https://img.shields.io/badge/Quora-Aakash-green)](https://https://www.quora.com/profile/Srivarsha-chinthapatla)
 <!--[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.aakash.me)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)-->
 
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+Software Developer working at Ivy Comptech
+The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python),front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive),database(MongoDB,cassendra,Mysql)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Srivarsha-Chinthapatla/count.svg)
