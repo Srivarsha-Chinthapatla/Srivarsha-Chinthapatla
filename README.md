@@ -1,6 +1,7 @@
 ### Hi Developers 👋
 
-**[![YouTube Badge](https://img.shields.io/badge/YouTube-Srivarsha -red)](https://www.youtube.com/Srivarsha Chinthapatla)**
+
+[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
 [![Linkedin Badge](https://img.shields.io/badge/-Srivarsha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Srivarsha-Chinthapatla)](https://www.linkedin.com/in/Srivarsha-Chinthapatla/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.aakash.me)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
