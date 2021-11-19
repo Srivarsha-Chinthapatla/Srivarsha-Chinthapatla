@@ -9,7 +9,7 @@
 
 I'm a
 Software Developer working at Ivy Comptech. 
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python),front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive),database(MongoDB,cassendra,Mysql)
+ I have a wide range of skills that include back-end development using open source technologies (Java,Spring,Springboot,Python),front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive),database(MongoDB,cassendra,Mysql,Oracle)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Srivarsha-Chinthapatla/count.svg)
