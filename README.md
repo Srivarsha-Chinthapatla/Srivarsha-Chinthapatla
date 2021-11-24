@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-Srivarsha-red)](https://www.youtube.com/developerfunnel)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Srivarsha-red)](https://www.youtube.com/channel/UCxii99xaZMnaHm6uY11uGLA)
 [![Linkedin Badge](https://img.shields.io/badge/-Srivarsha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Srivarsha-Chinthapatla)](https://www.linkedin.com/in/Srivarsha-Chinthapatla/)
 [![Website Badge](https://img.shields.io/badge/website-Srivarsha-yellow)](https://srivarsha.herokuapp.com/)
 [![Website Badge](https://img.shields.io/badge/Quora-Srivarsha-green)](https://www.quora.com/profile/Srivarsha-chinthapatla)
